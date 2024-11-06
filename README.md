@@ -38,3 +38,12 @@ La finalul rundei, se afișează scorul total (numărul de cuvinte scrise corect
 
 Shema electrica :
 ![Screenshot 2024-11-06 235043](https://github.com/user-attachments/assets/a2cb24f5-2f75-4567-80ce-f80a40c5bdbb)
+
+Poze cu setup-ul fizic :
+![WhatsApp Image 2024-11-06 at 23 49 59_663fb024](https://github.com/user-attachments/assets/a411a295-65e5-46fa-911b-359e6b75387b)
+![WhatsApp Image 2024-11-06 at 23 50 01_e8b34e3a](https://github.com/user-attachments/assets/60415863-d22b-4b7f-a530-b78985f7f1fe)
+![WhatsApp Image 2024-11-06 at 23 50 02_a0112641](https://github.com/user-attachments/assets/4c6ba226-ab85-4076-a653-be257f7f28a3)
+
+
+
+
