@@ -45,5 +45,8 @@ Poze cu setup-ul fizic :
 ![WhatsApp Image 2024-11-06 at 23 50 02_a0112641](https://github.com/user-attachments/assets/4c6ba226-ab85-4076-a653-be257f7f28a3)
 
 
+VIDEO : https://drive.google.com/file/d/1JWc9BkXKekI_qARnIwiSsoFCEhx9kowu/view?usp=drive_link
+
+
 
 
