@@ -35,3 +35,6 @@ Limitarea de Timp:
 
 Fiecare rundă are o durată maximă de 30 de secunde.
 La finalul rundei, se afișează scorul total (numărul de cuvinte scrise corect).
+
+Shema electrica :
+![Screenshot 2024-11-06 235043](https://github.com/user-attachments/assets/a2cb24f5-2f75-4567-80ce-f80a40c5bdbb)
